@@ -1,0 +1,8 @@
+.gradle
+.idea
+build
+data
+atlas.png
+atlas.yaml
+font.png
+*.log
