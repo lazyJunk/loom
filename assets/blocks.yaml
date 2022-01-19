@@ -1,0 +1,53 @@
+---
+air:
+  id: 0
+  left: "air"
+  right: "air"
+  front: "air"
+  back: "air"
+  top: "air"
+  bottom: "air"
+  name: "air"
+  transparent: true
+stone:
+  id: 1
+  left: "stone"
+  right: "stone"
+  front: "stone"
+  back: "stone"
+  top: "stone"
+  bottom: "stone"
+  name: "stone"
+  transparent: false
+grass:
+  id: 2
+  left: "grass"
+  right: "grass"
+  front: "grass"
+  back: "grass"
+  top: "grass_top"
+  bottom: "dirt"
+  name: "grass"
+  transparent: false
+dirt:
+  id: 3
+  side: "dirt"
+  top: "dirt"
+  left: "dirt"
+  right: "dirt"
+  front: "dirt"
+  back: "dirt"
+  bottom: "dirt"
+  name: "dirt"
+  transparent: false
+sided:
+  id: 4
+  side: "dirt"
+  left: "left"
+  right: "right"
+  front: "front"
+  back: "back"
+  top: "top"
+  bottom: "bottom"
+  name: "dirt"
+  transparent: false
